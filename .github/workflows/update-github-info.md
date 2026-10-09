@@ -17,16 +17,18 @@ network:
   allowed:
     - github.com
     - github.blog
+    - awesome-copilot.github.com
 ---
 
 # Update GitHub Info for Mona
 
 Before making any changes, read `notes/mona-notes.md` and follow its editorial guidance. Then review the current `site/content/github-info.md` so updates preserve useful existing material and fit the site's practical focus.
 
-Use `web-fetch` to consult both official sources:
+Use `web-fetch` to consult these sources:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
 Identify recent developments that are relevant to developers learning or using GitHub. Verify each proposed fact against its source. Keep updates concise and practical; do not add speculation, marketing language, or details that the sources do not support. Include source context in `site/content/github-info.md`: link to the specific article or changelog entry and identify its date and the practical takeaway. Preserve existing editorial guidance and homepage themes unless an official source gives a clear reason to update them. Avoid duplicating material already covered.
 
