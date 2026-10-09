@@ -17,6 +17,7 @@ network:
   allowed:
     - github.com
     - github.blog
+model: gpt-5-mini
 ---
 
 # Update GitHub Info for Mona
