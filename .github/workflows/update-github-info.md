@@ -1,7 +1,7 @@
----
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/4390b7d6-9673-49dd-845c-27d05e00b9d0" />---
 name: update-github-info
 description: Draft website updates for Mona's GitHub Info site from official GitHub sources.
-model: gpt-5-mini
+model: claude-sonnet-4
 on:
   workflow_dispatch:
   schedule:
